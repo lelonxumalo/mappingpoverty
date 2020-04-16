@@ -1,4 +1,4 @@
-# Mapping poverty
+# Mapping poverty in Ghana
 
 This repository contains a Jupyter Notebook that compiles various indicators of socioeconomic wellbeing across districts in Ghana. Data are from the Ghana Statistical Service (GSS)'s [2015 Poverty Map](http://www2.statsghana.gov.gh/docfiles/publications/POVERTY%20MAP%20FOR%20GHANA-05102015.pdf). The poverty indicators in the report were computed based on data from the 2010 Population and Housing Census (2010 PHC) and the 2012/2013 Ghana Living Standards Survey (GLSS6). The report presents the poverty headcount, depth and inequality for all the 216 districts and 29 sub-districts in the country. The maps in this repository focus on the 216 districts.
 
